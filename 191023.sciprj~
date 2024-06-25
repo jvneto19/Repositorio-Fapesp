@@ -1,0 +1,53 @@
+SciDAVis 1.23.0 project file
+<scripting-lang>	muParser
+<windows>	1
+<multiLayer>
+Graph1	1	1	16/11/2023 15:06:00
+geometry	729	0	1186	880	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	431	328
+Alignement	0	0
+<graph>
+ggeometry	10	10	1149	801
+PlotTitle		#000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Comprimento de onda (nm)	Intensidade (u.a.)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	MS Shell Dlg 2	22	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	24	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	17	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	24	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	17	75	0	0	0
+AxisFont0	MS Shell Dlg 2	17	50	0	0	0
+AxisFont1	MS Shell Dlg 2	17	50	0	0	0
+AxisFont2	MS Shell Dlg 2	17	50	0	0	0
+AxisFont3	MS Shell Dlg 2	17	50	0	0	0
+EnabledTickLabels	0	0	1	0	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+scale	0	0	20000	0	6	5	0	0
+scale	1	0	20000	0	8	5	0	0
+scale	2	500	920	0	9	5	0	0
+scale	3	500	920	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0	
+MinorTicks	1	0	1	0	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<log>
+</log>
